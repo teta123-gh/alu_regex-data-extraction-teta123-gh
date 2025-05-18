@@ -2,14 +2,7 @@ OVERVIEW
 
 This project is a web application that extracts and validates structured data using Regular Expressions (Regex). It scans and processes unstructured text to extract.
 
--Emails
--URLs
--Phone Numbers
--Credit Card Numbers
--Time (12-hour & 24-hour format)
--HTML Tags
--Hashtags
--Currency Amounts
+echo -e "Emails\nURLs\nPhone Numbers\nCredit Card Numbers\nTime (12-hour & 24-hour format)\nHTML Tags\nHashtags\nCurrency Amounts.
 
 Technologies Used
 
