@@ -13,9 +13,12 @@ This project is a web application that extracts and validates structured data us
 ```
 ## Technologies Used
 ```
--JavaScript (ES6) – Handles form validation with Regex.
--HTML & CSS – User-friendly UI for input.
--Git & GitHub – Version control.
+-JavaScript (ES6)
+– Handles form validation with Regex.
+-HTML & CSS
+– User-friendly UI for input.
+-Git & GitHub
+– Version control.
 ```
 ### How to Run
 ```
